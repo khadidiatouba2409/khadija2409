@@ -10,8 +10,9 @@ with st.sidebar:
     st.write("2024-2026: BTS")
     st.write("2023-2024: BACCALEAURIAT S2")
 st.subheader("A propos de moi")
-st.write("Intéressée par la géomatique, je souhaite améliorer mes connaissances en cartographie et en SIG. 
+st.write("Interessée par la géomatique, je souhaite améliorer mes connaissances en cartographie et en SIG. 
 Je suis une personne rigoureuse et motivée dans l’apprentissage et le travail.")
+
 
 
 
