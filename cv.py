@@ -13,6 +13,12 @@ with st.sidebar:
 st.subheader("A propos de moi")
 st.write("Passionnée par la géomatique, je souhaite améliorer mes connaissances en cartographie et en SIG. 
 Je suis une personne rigoureuse et motivée dans l’apprentissage et le travail.")
+st.subheader("Expériences")
+st.write("Juillet 2025: Stagiaire à la Direction de la Gestion et de la Planification des Ressources en Eau(DGPRE)")
+st.write("•	Produire des cartes thématiques ")
+st.write("•	Numériser et géoréferencer des données spatiales")
+st.write("•	Gérer et analyser des données géographiques") 
+
 
 
 
