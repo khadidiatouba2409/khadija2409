@@ -10,13 +10,14 @@ with st.sidebar:
     st.write("2024-2026: BTS")
     st.write("2023-2024: BACCALEAURIAT S2")
     st.header("Technicienne Supérieure en Geomatique")
-st.subheader("A propos de moi")
+    st.subheader("A propos de moi")
 
-st.subheader("Expériences")
-st.write("Juillet 2025: Stagiaire à la Direction de la Gestion et de la Planification des Ressources en Eau(DGPRE)")
-st.write("•	Produire des cartes thématiques ")
-st.write("•	Numériser et géoréferencer des données spatiales")
-st.write("•	Gérer et analyser des données géographiques") 
+    st.subheader("Expériences")
+    st.write("Juillet 2025: Stagiaire à la Direction de la Gestion et de la Planification des Ressources en Eau(DGPRE)")
+    st.write("•	Produire des cartes thématiques ")
+    st.write("•	Numériser et géoréferencer des données spatiales")
+     st.write("•	Gérer et analyser des données géographiques") 
+
 
 
 
