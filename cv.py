@@ -14,14 +14,15 @@ with st.sidebar:
 """)
     st.markdown("Compétences personnelles")
     st.markdown("•Sérieuse")
-   st.markdown( •"Motivée")
-  st.markdown (•"disciplinée")
+   
+    st.markdown (•"disciplinée")
    
     
 st.header("Technicienne Supérieure en Geomatique")
 
 st.subheader("A propos de moi")
 st.write("Passionnée par la géomatique, je suis une personne sérieuse et dynamique, dotée d’un bon esprit d’analyse et d’une bonne capacité de travail en équipe.")
+
 
 
 
