@@ -9,8 +9,11 @@ with st.sidebar:
     st.write("2025-2026 : BTS Géomatique")
     st.write("2024-2026: BTS")
     st.write("2023-2024: BACCALEAURIAT S2")
-    st.header("Technicienne Supérieure en Geomatique")
    
+    
+st.header("Technicienne Supérieure en Geomatique")
+   
+
 
 
 
