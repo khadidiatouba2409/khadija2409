@@ -13,15 +13,16 @@ with st.sidebar:
 - Baccalauréat S2 — 2023/2024
 """)
     st.write("Compétences personnelles")
-    st.write("""•	Sérieuse
-             •	Motivée
-             •	disciplinée""")
+    st.write("•	Sérieuse"
+              •	"Motivée"
+              •	"disciplinée")
    
     
 st.header("Technicienne Supérieure en Geomatique")
 
 st.subheader("A propos de moi")
 st.write("Passionnée par la géomatique, je suis une personne sérieuse et dynamique, dotée d’un bon esprit d’analyse et d’une bonne capacité de travail en équipe.")
+
 
 
 
